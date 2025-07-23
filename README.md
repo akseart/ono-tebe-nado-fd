@@ -1,3 +1,1 @@
-# Проектная работа спринт 1
-## Вёрстка. Семантика и лейаут
-
+https://github.com/akseart/ono-tebe-nado-fd
