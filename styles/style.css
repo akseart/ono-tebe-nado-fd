@@ -1,5 +1,4 @@
 header {
-
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
     min-height: 293px;
@@ -148,17 +147,13 @@ header {
     font-weight: bold;
     font-size: 40px;
     text-transform: uppercase;
-
     margin-left: 64px;
     margin-top: 180px;
     margin-bottom: 27px;
-
-
 }
 
 .lots__card-list-item {
     min-height: 596px;
-
 }
 
 .card-link {
@@ -186,8 +181,6 @@ header {
     text-decoration: underline;
     text-underline-offset: 3px;
     line-height: 1.2em;
-
-
 }
 
 .card__text {
@@ -216,7 +209,6 @@ header {
 .all_card {
     font-size: 20px;
     margin-left: 64px;
-
 }
 
 .about {
@@ -229,8 +221,6 @@ header {
     align-items: center;
     column-gap: 25px;
     margin-bottom: 180px;
-
-
 }
 
 .about__title {
@@ -240,7 +230,6 @@ header {
     text-transform: uppercase;
     grid-area: about_header;
     margin-top: 45px;
-
 }
 
 .about__text {
@@ -251,17 +240,11 @@ header {
     line-height: 1.2em;
     margin-right: 24px;
     padding-top: 7px;
-
 }
 
 .about_text_paragraph {
-    /*margin-top: 5px;*/
     margin-bottom: 25px;
 }
-
-.about_last_paragraph {
-}
-
 
 .about__logo {
     width: 240px;
@@ -279,7 +262,6 @@ header {
 }
 
 .about__logo-image {
-
     width: 148px;
 }
 
@@ -292,7 +274,6 @@ footer {
     font-size: 18px;
     margin-left: 50px;
     justify-self: start;
-
 }
 
 .footer__menu-list {
@@ -308,8 +289,6 @@ footer {
     display: flex;
     align-items: baseline;
     justify-content: space-evenly;
-
-
     margin-left: 30px;
 }
 
