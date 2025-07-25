@@ -185,6 +185,7 @@ header {
     z-index: 2;
 
 }
+
 .card__title {
     font-weight: bold;
     font-size: 22px;
@@ -268,6 +269,7 @@ header {
 footer {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    margin-bottom: 82px;
 }
 
 .footer_address {
@@ -291,7 +293,6 @@ footer {
     justify-content: space-evenly;
     margin-left: 30px;
     padding-left: 0;
-
 }
 
 .footer__social-icon {
